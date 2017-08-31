@@ -14,7 +14,7 @@ Both version and license_id contain only a single value, so when a software has 
 - Gephi 0.9.1 (to view/style the graph produced) 
 
 #### Sample Ouput Graph in Gephi
-![graph](dependency directed graph.png)
+<img src="dependency directed graph.png"></img>
 
 
 
